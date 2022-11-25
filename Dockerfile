@@ -4,7 +4,7 @@ RUN apt-get update && \
     apt-get install -y \
         python \
         python-dev \
-        python-pip \
+        python3-pip \
         python-setuptools \
         groff \
         less \
